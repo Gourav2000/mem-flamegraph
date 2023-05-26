@@ -35,4 +35,4 @@ It will create a node.cpuprofile in the root of your node app and generate a fla
 
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](LISCENSE).
