@@ -4,8 +4,7 @@
 
 ## Description
 
-A brief description of your package goes here.
-
+A package that can be used to generate flamegraphs for cpu utilizations of each function on your node app.
 ## Installation
 
 To install the package globally, run the following command:
