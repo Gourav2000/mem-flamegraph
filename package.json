@@ -11,6 +11,10 @@
 		"email": "gouravsarkar67@gmail.com",
 		"url": "https://gourav2000.github.io/MyPortfolio/"
 	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Gourav2000/mem-flamegraph"
+	},
 	"keywords": [
 		"mem-flamegraph",
 		"Gourav"
