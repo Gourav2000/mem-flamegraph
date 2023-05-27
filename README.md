@@ -35,7 +35,9 @@ It will create a node.cpuprofile in the root of your node app and generate a fla
 
 ## Example
 
-Let's create a node express app index.js to and generate flamegraphs according to the functions used and their cpu usage
+Let's create a node express app index.js to and generate flamegraphs according to the functions used and their cpu usage.
+
+File: `index.js`
 
 ```javascript
 const express = require('express');
