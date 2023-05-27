@@ -1,6 +1,6 @@
 # mem-flamegraph
-[![npm version](https://img.shields.io/npm/v/YOUR_PACKAGE_NAME.svg)](https://www.npmjs.com/package/mem-flamegraph)
-[![license](https://img.shields.io/npm/l/YOUR_PACKAGE_NAME.svg)](https://github.com/Gourav2000/mem-flamegraph/blob/master/LICENSE)
+[![npm version](https://img.shields.io/npm/v/mem-flamegraph.svg)](https://www.npmjs.com/package/mem-flamegraph)
+[![license](https://img.shields.io/npm/l/mem-flamegraph.svg)](https://github.com/Gourav2000/mem-flamegraph/blob/master/LICENSE)
 
 ## Description
 
