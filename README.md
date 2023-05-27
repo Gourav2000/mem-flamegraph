@@ -95,7 +95,7 @@ Notice that perform heavy task tais marked red and takes up most cpu usage and t
 
 ![image](fg2.png)
 
-In sandwich mode you can see all the fubction sorted by their cpu usage.
+In sandwich mode you can see all the functions sorted by their cpu usage.
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
