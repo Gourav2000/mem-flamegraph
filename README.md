@@ -78,6 +78,16 @@ Assuming you have mem-flamegraph and speescope installed in your system. Execute
 ```bash
 mem-flamegraph index.js
 ```
+Then hit `/heavy` endpoint using
+```bash
+curl localhost:4000/heavy
+```
+and get the response 
+```
+{"status":"ok","heavyTaskCount":749991492203.7686}
+```
+then press ctrl+c to stop the profiling.
+
 A node.cpuprofile will be created in your root directory, and flamegraph will open up on your default browser like below.
 ![image](fg.png)
 
