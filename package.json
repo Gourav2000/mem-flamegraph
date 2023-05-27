@@ -1,8 +1,8 @@
 {
 	"name": "mem-flamegraph",
 	"description": "memory flamegraphs",
-	"version": "0.0.1",
-	"license": "UNLICENSED",
+	"version": "0.0.2",
+	"license": "MIT",
 	"bin": {
 		"mem-flamegraph": "index.js"
 	},
